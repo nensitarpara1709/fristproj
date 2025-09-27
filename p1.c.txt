@@ -2,4 +2,6 @@
 void mani()
 {
     printf("Hello World");
+    printf("Hii HOw Are You?");
+
 }
